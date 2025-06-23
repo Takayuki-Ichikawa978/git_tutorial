@@ -1,0 +1,24 @@
+[33m2e2881f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m third.htmlを追加します
+[33m56c19db[m second.htmlを追加
+[33mb934c95[m first.htmlを追加
+[33mae285f3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m feature2を新規作成
+[33ma11eb8a[m master2を新規作成
+[33m3a50d2e[m Merge pull request #2 from Takayuki-Ichikawa978/github_flow
+[33md7d6c7e[m[33m ([m[1;31morigin/github_flow[m[33m)[m github_flowを追加
+[33m647c06b[m Merge branch 'feature' コンフリクトの解決
+[33m864cdb6[m conflictを追記
+[33me978c04[m コンフリクトを追記
+[33m444ebb9[m Merge branch 'feature'
+[33m03ba298[m feature を追記
+[33mc1d3f41[m git mergeを追記
+[33m026d39d[m masterファイルを追加
+[33me1757b2[m[33m ([m[1;31morigin/feature[m[33m)[m feature.htmlを新規追加
+[33m6aca0dd[m Merge branch 'master' of https://github.com/Takayuki-Ichikawa978/git_tutorial
+[33m05ffea6[m Update home.html
+[33m9586a9c[m Merge remote-tracking branch 'origin/master'
+[33m62d64e7[m Create home.html
+[33mc3c6bbc[m git commit --amendを追加
+[33md8b2466[m .gitignoreファイルを追加
+[33m5f0b28a[m git diff　を追記
+[33m9b30831[m git statusコマンドを追記
+[33m7efcf54[m initial commit
